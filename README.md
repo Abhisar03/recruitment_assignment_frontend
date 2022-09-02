@@ -1,5 +1,17 @@
 # recruitment_assignment_frontend
 
+
+LINK OF WEBSITE : - https://abhisar03.github.io/recruitment_assignment_frontend/
+
+FIGMA FILE LINK : - https://www.figma.com/file/gvWEJ4y9d3GTaWUXJiSYYK/my-website-for-dev-club-recruitment?node-id=0%3A1
+
+
+
+
+
+
+
+MAKING OF WEBSITE : -
 Hi,this is abhisar and i will be documenting my progress
 first of all I am pretty new to this stuff so pardon me if my work isn't that impressive
 when the assignment came, the only thing i made till then was this : https://abhisar03.github.io/bookmarks/
